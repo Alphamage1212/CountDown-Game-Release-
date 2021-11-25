@@ -1,0 +1,83 @@
+C:\Users\charl\source\repos\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.exe
+C:\Users\charl\source\repos\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.deps.json
+C:\Users\charl\source\repos\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.runtimeconfig.json
+C:\Users\charl\source\repos\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.dll
+C:\Users\charl\source\repos\Countdown\Countdown\bin\Debug\net6.0-windows\ref\Countdown.dll
+C:\Users\charl\source\repos\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.pdb
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.csproj.AssemblyReference.cache
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown_MarkupCompile.cache
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown_MarkupCompile.lref
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.g.resources
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.AssemblyInfo.cs
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.dll
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\ref\Countdown.dll
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.pdb
+C:\Users\charl\source\repos\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.genruntimeconfig.cache
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\pcgamelist.g.cs
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\ps4gamelist.g.cs
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\switchgamelist.g.cs
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\xboxgamelist.g.cs
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\pcgamelist.baml
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\ps4gamelist.baml
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\switchgamelist.baml
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\xboxgamelist.baml
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\justdancetrailer.g.cs
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\console page\justdancetrailer.baml
+C:\Users\charl\Desktop\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.exe
+C:\Users\charl\Desktop\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.deps.json
+C:\Users\charl\Desktop\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.runtimeconfig.json
+C:\Users\charl\Desktop\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.dll
+C:\Users\charl\Desktop\Countdown\Countdown\bin\Debug\net6.0-windows\ref\Countdown.dll
+C:\Users\charl\Desktop\Countdown\Countdown\bin\Debug\net6.0-windows\Countdown.pdb
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\justdancetrailer.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\pcgamelist.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\ps4gamelist.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\switchgamelist.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\xboxgamelist.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown_MarkupCompile.cache
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown_MarkupCompile.lref
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\justdancetrailer.baml
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\pcgamelist.baml
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\ps4gamelist.baml
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\switchgamelist.baml
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\console page\xboxgamelist.baml
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.g.resources
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.AssemblyInfo.cs
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.dll
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\ref\Countdown.dll
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.pdb
+C:\Users\charl\Desktop\Countdown\Countdown\obj\Debug\net6.0-windows\Countdown.genruntimeconfig.cache
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\playstation4.png
+C:\Users\charl\source\repos\countdown\Countdown\obj\Debug\net6.0-windows\Countdown_Content.g.cs
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\pc.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switch.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\xbox.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switch trailer\Just Dance 2022.mp4
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\bayonetta.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\BigBrain.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\Dangaronpa.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\digimon.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\dying light.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\gtatrilogy.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\justdance2022.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\kotor.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\mariorabbit.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\outerwilds.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\pokemon arceus.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\pokemonD.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\pokemonP.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\smt5.png
+C:\Users\charl\source\repos\countdown\Countdown\bin\Debug\net6.0-windows\switchjacket\triangle.png

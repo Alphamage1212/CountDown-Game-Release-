@@ -1,0 +1,96 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pc.png" />
+    <None Remove="playstation4.png" />
+    <None Remove="switch trailer\Just Dance 2022.mp4" />
+    <None Remove="switch.png" />
+    <None Remove="switchjacket\bayonetta.png" />
+    <None Remove="switchjacket\BigBrain.png" />
+    <None Remove="switchjacket\Dangaronpa.png" />
+    <None Remove="switchjacket\digimon.png" />
+    <None Remove="switchjacket\dying light.png" />
+    <None Remove="switchjacket\gtatrilogy.png" />
+    <None Remove="switchjacket\justdance2022.png" />
+    <None Remove="switchjacket\kotor.png" />
+    <None Remove="switchjacket\mariorabbit.png" />
+    <None Remove="switchjacket\outerwilds.png" />
+    <None Remove="switchjacket\pokemon arceus.png" />
+    <None Remove="switchjacket\pokemonD.png" />
+    <None Remove="switchjacket\pokemonP.png" />
+    <None Remove="switchjacket\smt5.png" />
+    <None Remove="switchjacket\triangle.png" />
+    <None Remove="xbox.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="pc.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="playstation4.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switch trailer\Just Dance 2022.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switch.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\bayonetta.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\BigBrain.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\Dangaronpa.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\digimon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\dying light.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\gtatrilogy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\justdance2022.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\kotor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\mariorabbit.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\outerwilds.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\pokemon arceus.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\pokemonD.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\pokemonP.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\smt5.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="switchjacket\triangle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xbox.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
